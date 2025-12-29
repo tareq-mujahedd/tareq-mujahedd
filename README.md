@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi, I'm Tareq 👋
 
-<!--
-**tareq-mujahedd/tareq-mujahedd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering student at Nişantaşı University (2022–2026), based in Istanbul.
 
-Here are some ideas to get you started:
+### Tech Stack
+- SQL / SQL Server
+- C++ (problem solving)
+- C# & .NET
+- OOP, Data Structures
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently
+- Building small projects with C#/.NET
+- Practicing databases and writing SQL queries
+- Solving programming problems to strengthen fundamentals
+
+### Links
+- LinkedIn: www.linkedin.com/in/tareq-mujahed
+
+
