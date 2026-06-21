@@ -1,19 +1,42 @@
-## Hi, I'm Tareq 👋
+# Hi, I'm Tareq 👋
 
-Software Engineering student at Nişantaşı University (2022–2026), based in Istanbul.
+Software Engineering student at Nişantaşı University, based in Istanbul.
 
-### Tech Stack
-- SQL / SQL Server
-- C++ (problem solving)
-- C# & .NET
-- OOP, Data Structures
+I'm currently focusing on **.NET Backend Development** and building projects using **C#**, **SQL Server**, and **ASP.NET Core Web API**.
 
-### Currently
-- Building small projects with C#/.NET
-- Practicing databases and writing SQL queries
-- Solving programming problems to strengthen fundamentals
+## Tech Stack
 
-### Links
-- LinkedIn: www.linkedin.com/in/tareq-mujahed
+* C# & .NET
+* Object-Oriented Programming (OOP)
+* SQL Server
+* T-SQL
+* ASP.NET Core Web API
+* REST APIs
+* ADO.NET
+* JWT Authentication
+* C++ basics and problem solving
 
+## Currently
 
+* Building backend projects with C# and .NET
+* Practicing SQL Server and database design
+* Learning ASP.NET Core Web API security
+* Improving my GitHub portfolio
+* Preparing for a .NET Backend internship
+
+## Projects
+
+* C++ Console Games
+* C# WinForms Projects
+* DVLD Driving License System
+* Secure Student API
+* Upcoming: Code Generator
+* Upcoming: Hospital Management API
+
+## Goal
+
+My goal is to become a **.NET Backend Developer** and gain real-world experience through an internship or junior backend opportunity.
+
+## Links
+
+* LinkedIn: [www.linkedin.com/in/tareq-mujahed](http://www.linkedin.com/in/tareq-mujahed)
