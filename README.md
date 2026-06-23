@@ -13,7 +13,7 @@ I'm currently focusing on **.NET Backend Development** and building projects usi
 * ASP.NET Core Web API
 * REST APIs
 * ADO.NET
-* JWT Authentication
+* ASP.NET Core API Security
 * C++ basics and problem solving
 
 ## Currently
