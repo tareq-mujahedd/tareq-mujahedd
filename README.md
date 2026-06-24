@@ -11,7 +11,7 @@ I'm currently focusing on **.NET Backend Development** and building projects usi
 * SQL Server
 * T-SQL
 * ASP.NET Core Web API
-* REST APIs
+* RESTful APIs
 * ADO.NET
 * ASP.NET Core API Security
 * C++ basics and problem solving
